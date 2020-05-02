@@ -1,0 +1,10 @@
+git config:To set your user name and email in the main configuration file.
+git init:To initialise a git repository for a new or existing project.
+git clone:To copy a git repository from remote source, also sets the remote to original source so that you can pull again.
+git status:To check the status of files you’ve changed in your working directory, i.e, what all has changed since your last commit.
+git add:adds changes to stage/index in your working directory.
+git commit:commits your changes and sets it to new commit object for your remote.
+git push/pull:Push or Pull your changes to remote. If you have added and committed your changes and you want to push them. Or if your remote has updated and you want those latest changes.
+git branch:Push or Pull your changes to remote. If you have added and committed your changes and you want to push them. Or if your remote has updated and you want those latest changes.
+git checkout:Switch to different branches
+git merge:Merge two branches you were working on.
